@@ -1,2 +1,2 @@
-# Olajohnm.github.io
+# Olajohnm.github.com
 The Site
